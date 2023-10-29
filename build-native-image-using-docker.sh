@@ -1,0 +1,1 @@
+./mvnw -Pnative spring-boot:build-image
